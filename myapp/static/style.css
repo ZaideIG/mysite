@@ -1,0 +1,103 @@
+
+.div1{
+    padding: 1em;
+    margin: 0 auto;
+    border-radius: 10px;
+    background:  #f0f0f0;
+    display: table;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 25px;
+    width: 400px;
+    border-radius: 25px;
+    background-color: dodgerblue;
+}
+
+.port{
+    text-align: center;
+    vertical-align: middle;
+    font-size: x-large;
+    color: white;
+}
+
+.form{
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 50px;
+    height: 50px;
+}
+
+
+.choose{
+    display: inline-block;
+    font-weight:  bold;
+    font-size: 15px;
+    color: red;
+}
+
+.submit{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5px;
+}
+
+.row1{
+  padding: 25px
+}
+
+.row2{
+  color: dimgrey;
+  padding: 25px;
+  }
+
+  .green{
+    color: green;
+   padding: 30px;
+  }
+
+  .red{
+    color: red;
+   padding: 30px;
+  }
+
+  .Total{
+    font-weight: bold;
+    padding: 25px;
+  }
+
+  .green2{
+    font-weight: bold;
+   padding: 30px;
+  }
+
+  .red2{
+    font-weight: bold;
+   padding: 30px;
+  }
+
+
+  .con{
+    display: flex;
+    margin: auto;
+    column-gap: 8%;
+  }
+
+  .con2{
+    width: 40%;
+  }
+
+  .con3{
+    color: indigo;
+    font-weight: bold;
+  }
+
+
+
